@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hackathon-live/static/css/main.5fb1509b.css",
+    "main.js": "/hackathon-live/static/js/main.7dc0e913.js",
+    "static/js/787.6dc5d524.chunk.js": "/hackathon-live/static/js/787.6dc5d524.chunk.js",
+    "static/media/background.png": "/hackathon-live/static/media/background.326875d4cc229c72506a.png",
+    "static/media/logo.png": "/hackathon-live/static/media/logo.0255322c8940c0feb37c.png",
+    "static/media/chakra-petch-all-400-normal.woff": "/hackathon-live/static/media/chakra-petch-all-400-normal.c86750cb709c0bc60cc2.woff",
+    "static/media/chakra-petch-latin-400-normal.woff2": "/hackathon-live/static/media/chakra-petch-latin-400-normal.45099b4b202c56917332.woff2",
+    "static/media/chakra-petch-latin-ext-400-normal.woff2": "/hackathon-live/static/media/chakra-petch-latin-ext-400-normal.9d8ef46b4d8c0a09abf7.woff2",
+    "static/media/chakra-petch-thai-400-normal.woff2": "/hackathon-live/static/media/chakra-petch-thai-400-normal.f5107669b4a4ddcfbc0f.woff2",
+    "static/media/chakra-petch-vietnamese-400-normal.woff2": "/hackathon-live/static/media/chakra-petch-vietnamese-400-normal.0dc81d529f8224536509.woff2",
+    "index.html": "/hackathon-live/index.html",
+    "main.5fb1509b.css.map": "/hackathon-live/static/css/main.5fb1509b.css.map",
+    "main.7dc0e913.js.map": "/hackathon-live/static/js/main.7dc0e913.js.map",
+    "787.6dc5d524.chunk.js.map": "/hackathon-live/static/js/787.6dc5d524.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb1509b.css",
+    "static/js/main.7dc0e913.js"
+  ]
+}
